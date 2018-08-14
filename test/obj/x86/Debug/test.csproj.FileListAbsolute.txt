@@ -1,0 +1,16 @@
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\bin\Debug\test.exe.config
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\bin\Debug\test.exe
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\bin\Debug\test.pdb
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\bin\Debug\showapi.dll
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\bin\Debug\showapi.pdb
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\obj\x86\Debug\test.exe
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\test\obj\x86\Debug\test.pdb
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\bin\Debug\test.exe.config
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\obj\x86\Debug\test.exe
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\obj\x86\Debug\test.pdb
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\bin\Debug\test.exe
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\bin\Debug\test.pdb
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\bin\Debug\showapi.dll
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\bin\Debug\showapi.pdb
+D:\root\Demo\C#_showapi\ConsoleApplication1\test\obj\x86\Debug\ResolveAssemblyReference.cache

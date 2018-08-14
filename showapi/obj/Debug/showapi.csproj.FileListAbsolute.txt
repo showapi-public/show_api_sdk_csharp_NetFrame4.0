@@ -1,0 +1,10 @@
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\showapi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\showapi\bin\Debug\showapi.dll
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\showapi\bin\Debug\showapi.pdb
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\showapi\obj\Debug\showapi.dll
+C:\Users\zl\Documents\Visual Studio 2010\Projects\ConsoleApplication1\showapi\obj\Debug\showapi.pdb
+D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\bin\Debug\showapi.dll
+D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\bin\Debug\showapi.pdb
+D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\obj\Debug\ResolveAssemblyReference.cache
+D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\obj\Debug\showapi.dll
+D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\obj\Debug\showapi.pdb
