@@ -8,3 +8,8 @@ D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\bin\Debug\showapi.pdb
 D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\obj\Debug\ResolveAssemblyReference.cache
 D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\obj\Debug\showapi.dll
 D:\root\Demo\C#_showapi\ConsoleApplication1\showapi\obj\Debug\showapi.pdb
+C:\c_sharp_workspace\show_api_sdk_csharp_NetFrame4.0\showapi\obj\Debug\showapi.csprojResolveAssemblyReference.cache
+C:\c_sharp_workspace\show_api_sdk_csharp_NetFrame4.0\showapi\bin\Debug\showapi.pdb
+C:\c_sharp_workspace\show_api_sdk_csharp_NetFrame4.0\showapi\obj\Debug\showapi.pdb
+C:\c_sharp_workspace\show_api_sdk_csharp_NetFrame4.0\showapi\bin\Debug\showapi.exe
+C:\c_sharp_workspace\show_api_sdk_csharp_NetFrame4.0\showapi\obj\Debug\showapi.exe
