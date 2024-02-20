@@ -13,7 +13,7 @@ namespace showapi
      	}
      	
      	public static String post_base64_demo(){
-     		 String res = new ShowApiRequest("http://route.showapi.com/20-1", "3", "006513e01bd344fca03610d1fd0145f0")
+     		 String res = new ShowApiRequest("http://route.showapi.com/20-1", "3", "006513e0...f0")
             .addTextPara("ip", "8.8.4.4")
      		.addBase64Para("base64str", System.Text.Encoding.UTF8.GetBytes("aij adsfljsda f"))
             .post();
@@ -21,7 +21,7 @@ namespace showapi
      		 return res;
      	}
      	public static String post_file_demo(){
-     		 String res = new ShowApiRequest("http://route.showapi.com/1-1", "3", "006513e01bd344fca03610d1fd0145f0")
+     		 String res = new ShowApiRequest("http://route.showapi.com/1-1", "3", "006...5f0")
      		.addFilePara("src_img", "c:/1.txt")
             .addTextPara("type", "rate")
             .addTextPara("rate", "0.5")
